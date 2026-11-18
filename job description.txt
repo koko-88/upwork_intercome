@@ -1,0 +1,59 @@
+AI customer service installment
+Posted 2 weeks ago
+Worldwide
+
+Summary
+We’re a e-commerce company looking for an experienced developer or agency to build an AI-first customer support system. The AI will handle routine questions, and our human agents will take over the cases it can’t resolve.
+
+WHAT WE NEED
+
+AI support agent
+Answers customer questions using our knowledge base, policies and past tickets
+Connects to our systems to look up orders, start returns, etc. We use shopify, re-amaze, parcelwill and claude.
+Channels:
+Languages: English 
+Never invents policies, discounts or promises. Only answers from approved sources
+Clearly tells customers they’re talking to an AI (EU AI Act)
+Automatic handoff to human agents when:
+the AI isn’t confident in its answer
+the customer asks for a human
+the customer is frustrated or angry
+the topic is sensitive (legal, privacy, complaints, refunds over a set amount)
+the conversation goes in circles
+The human agent gets the full conversation, a short summary and the reason for the handoff, so the customer never has to repeat themselves.
+Interactive analytics dashboard
+First response time and time to resolution (AI vs. human)
+Customer sentiment and satisfaction (CSAT)
+AI resolution rate vs. escalation rate
+Top reasons for handoff and top contact topics
+Questions the AI couldn’t answer, so we can fill knowledge gaps
+Filters by date, channel and topic, with click-through to individual conversations
+
+REQUIREMENTS
+
+Experience with re-amaze integrations
+GDPR-compliant setup 
+Clear documentation and a handover so our team can maintain it
+
+PROJECT APPROACH
+We’d like a phased rollout:
+Phase 1: AI drafts answers, humans approve (testing period)
+Phase 2: AI answers simple topics on its own
+Phase 3: Expand based on results
+Please include a rough timeline and cost per phase in your proposal.
+
+
+TO APPLY, PLEASE ANSWER:
+
+Describe a similar AI support system you built. What was its resolution rate?
+Which AI model and tools would you use, and why?
+How would you decide when the AI should hand off to a human?
+Would you build this custom or on top of an existing platform (e.g. Zendesk AI, Intercom Fin)? Why?
+
+Please start your proposal with the word “HANDOFF” so we know you’ve read this post.
+
+$11,000.00
+
+Fixed-price
+Expert
+I am willing to pay higher rates for the most experienced freelancers
